@@ -69,7 +69,7 @@ try {
 */
 const app = smarthome({
   debug: true,
-  key: '<api-key>',
+  //key: '<api-key>',
   //jwt: jwt,
 });
 
