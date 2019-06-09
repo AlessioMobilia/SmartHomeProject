@@ -1,2 +1,3 @@
 # SmartHomeProject
-Interazione di un dispositivo con gli assistenti vocali
+
+Questo è un progetto realizzato per il tirocinio presso SmartME.
